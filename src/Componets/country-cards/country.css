@@ -1,0 +1,26 @@
+.container-country {
+ display: flex;
+margin: 20px;
+flex-wrap: wrap;
+width: 75%;
+justify-content: space-between;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: royalblue;
+  border-radius: 5px;
+  height: 30px;
+  color: white;
+}
+
+.text {
+  color: #747474;
+}
+.shadow:hover{
+  -webkit-box-shadow: -5px 8px 19px 6px rgba(173, 157, 173, 1);
+  -moz-box-shadow: -5px 8px 19px 6px rgba(173, 157, 173, 1);
+  box-shadow: -5px 8px 19px 6px rgba(173, 157, 173, 1);
+}

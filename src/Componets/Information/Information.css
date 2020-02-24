@@ -1,0 +1,90 @@
+.Container-info {
+  background-color: #e5faf8;
+  display: flex;
+  justify-content: space-around;
+}
+.small-container {
+  overflow: hidden;
+  height: 490px;
+}
+.h1info {
+  font-size: 2.125rem;
+  color: #00b39b;
+  margin-top: 50px;
+}
+.P-info {
+  max-width: 415px;
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #747474;
+}
+.logo2 {
+  width: 400px;
+  height: 400px;
+}
+.style-boxes {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.box-white {
+  height: 215px;
+  width: 182px;
+  background-color: white;
+  margin: 20px;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 1px;
+}
+
+.log-2 {
+  height: 30px;
+  width: 35px;
+}
+
+.style-p {
+  font-weight: 400;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #747474;
+  padding-top: 70px;
+  -webkit-font-smoothing: antialiased;
+  height: 0px;
+}
+.info-box {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.h3 {
+  color: #00b39b;
+}
+.h1-inf {
+  color: #00b39b;
+  
+ 
+}
+.p-inf {
+  font-weight: 400;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #747474;
+  padding-top: 70px;
+  -webkit-font-smoothing: antialiased;
+}
+.last{
+    padding-right: 400px;
+    padding-left: 400px;
+    padding-top: 30px;
+}
+.paraa{
+  
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;
+   
+    -webkit-font-smoothing: antialiased;
+}

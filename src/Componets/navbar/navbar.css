@@ -1,0 +1,26 @@
+.logo {
+  width: 268px;
+  height: 33px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  box-shadow: 0 -2px 10px 0 rgba(0,0,0,.15);
+  padding: 0px 40px;
+  background-color: white;
+}
+.liste {
+  display: flex;
+}
+.items {
+  margin: 10px;
+  color: #ababab;
+  cursor: pointer;
+}
+.items:hover {
+  color: #00b39b;
+}
